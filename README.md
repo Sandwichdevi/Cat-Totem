@@ -1,5 +1,5 @@
-# [https://modrinth.com/resourcepack/cat-totem/settings/links](Modrinth)
-
+# [Modrinth](https://modrinth.com/resourcepack/cat-totem/)
+Modrinth
 <details>
 <summary>In The Next Version Spoiler</summary>
 
