@@ -1,4 +1,4 @@
-# Version 1.0.0 [1.20+]
+# [https://modrinth.com/resourcepack/cat-totem/settings/links](Modrinth)
 
 <details>
 <summary>In The Next Version Spoiler</summary>
