@@ -22,7 +22,7 @@ Modrinth
 # LICENSE 
 
 
-# "Cute Cat Totem" Resource Pack License
+# "Cat Totem" Resource Pack License
 
 ## License Overview:
 This resource pack is provided for personal use only. You are allowed to use it in your own Minecraft game but are not permitted to distribute, copy, or modify it in any way.
