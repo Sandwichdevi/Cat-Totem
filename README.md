@@ -19,7 +19,7 @@
 ### End Of Activation
 ![End Of Activation](https://cdn.modrinth.com/data/cached_images/4eb14ce819fe00675c4c0d186d30fdf77cb218ff.webp)
 
-# LICENSE AAR
+# LICENSE ARR
 
 All rights reserved unless explicitly stated.
 
