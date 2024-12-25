@@ -19,32 +19,7 @@
 ### End Of Activation
 ![End Of Activation](https://cdn.modrinth.com/data/cached_images/4eb14ce819fe00675c4c0d186d30fdf77cb218ff.webp)
 
-# LICENSE 
+# LICENSE AAR
 
+All rights reserved unless explicitly stated.
 
-# "Cat Totem" Resource Pack License
-
-## License Overview:
-This resource pack is provided for personal use only. You are allowed to use it in your own Minecraft game but are not permitted to distribute, copy, or modify it in any way.
-
-## Terms and Conditions:
-1. **Usage Rights**:
-   - You may use this resource pack within your personal Minecraft gameplay.
-   - You may not share, distribute, or make this resource pack publicly available.
-
-2. **No Copying**:
-   - You may not reproduce, distribute, or use this resource pack in any other way than for personal use.
-   - You may not sublicense, sell, or otherwise commercially exploit this resource pack.
-
-3. **No Modifications**:
-   - You may not alter, transform, or build upon this resource pack.
-   - You may not create derivative works based on this resource pack.
-
-4. **Attribution**:
-   - You must provide appropriate credit to the original creator (your name) whenever you use this resource pack.
-
-## Compliance:
-By using this resource pack, you agree to these terms and conditions. Violation of these terms will result in the immediate termination of your usage rights.
-
-## Contact Information:
-If you have any questions about this license, please contact malmihnea@gmail.com.
